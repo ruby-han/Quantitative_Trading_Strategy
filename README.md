@@ -34,8 +34,8 @@ Forecasting market movement is a long-time attractive topic. This project aims t
 
 **Performance Metrix:**
 
-```math
+\begin{equation*}
 \text{Return on Investment (ROI)}=\frac{\text{Current Value of Investment}-\text{Investment Cost}}{\text{Investment Cost}}
-```
+\end{equation*}
 
 ![result_table](result_table.png)
