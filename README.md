@@ -34,7 +34,7 @@ Forecasting market movement is a long-time attractive topic. This project aims t
 
 ## Result Summary
 
-**Performance MetriC:**
+**Performance Metric:**
 
 ![roi](images/roi.png)
 
